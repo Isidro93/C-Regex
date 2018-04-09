@@ -18,3 +18,13 @@ C:\Users\Dev\Documents\VSCode\cSharpPractice\obj\Debug\netcoreapp2.0\cSharpPract
 C:\Users\Dev\Documents\VSCode\cSharpPractice\obj\Debug\netcoreapp2.0\cSharpPractice.AssemblyInfo.cs
 C:\Users\Dev\Documents\VSCode\cSharpPractice\obj\Debug\netcoreapp2.0\cSharpPractice.dll
 C:\Users\Dev\Documents\VSCode\cSharpPractice\obj\Debug\netcoreapp2.0\cSharpPractice.pdb
+C:\Users\Dev\Documents\Programmer to Developer\VSCode\cSharpPractice\bin\Debug\netcoreapp2.0\cSharpPractice.deps.json
+C:\Users\Dev\Documents\Programmer to Developer\VSCode\cSharpPractice\bin\Debug\netcoreapp2.0\cSharpPractice.runtimeconfig.json
+C:\Users\Dev\Documents\Programmer to Developer\VSCode\cSharpPractice\bin\Debug\netcoreapp2.0\cSharpPractice.runtimeconfig.dev.json
+C:\Users\Dev\Documents\Programmer to Developer\VSCode\cSharpPractice\bin\Debug\netcoreapp2.0\cSharpPractice.dll
+C:\Users\Dev\Documents\Programmer to Developer\VSCode\cSharpPractice\bin\Debug\netcoreapp2.0\cSharpPractice.pdb
+C:\Users\Dev\Documents\Programmer to Developer\VSCode\cSharpPractice\obj\Debug\netcoreapp2.0\cSharpPractice.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Documents\Programmer to Developer\VSCode\cSharpPractice\obj\Debug\netcoreapp2.0\cSharpPractice.AssemblyInfoInputs.cache
+C:\Users\Dev\Documents\Programmer to Developer\VSCode\cSharpPractice\obj\Debug\netcoreapp2.0\cSharpPractice.AssemblyInfo.cs
+C:\Users\Dev\Documents\Programmer to Developer\VSCode\cSharpPractice\obj\Debug\netcoreapp2.0\cSharpPractice.dll
+C:\Users\Dev\Documents\Programmer to Developer\VSCode\cSharpPractice\obj\Debug\netcoreapp2.0\cSharpPractice.pdb
